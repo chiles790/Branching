@@ -12,3 +12,4 @@
 * 'git branch' shows current branch location
 * 'git branch someBranch' creates new branch called that
 * 'git checkout someBranch' swaps to that branch
+* 'git checkout -b otherBranch' - create and checkout
