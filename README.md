@@ -10,3 +10,12 @@ Summary of useful 'git' commands.
 * 'git log' - shows every commit in history
 * 'git log --oneline' - show git commit history
 * 'git config -l' -  List git configuarations
+
+### Branching Commands
+* 'git branch' shows current branch location
+* 'git branch someBranch' creates new branch called that
+* 'git checkout someBranch' swaps to that branch
+* 'git checkout -b otherBranch' - create and checkout
+
+### Remote Commands
+* 'git remote add origin URL' - set remote repo alias 'origin' for git 'url'
